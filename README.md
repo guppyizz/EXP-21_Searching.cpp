@@ -1,6 +1,4 @@
 # EXP-21_Searching.cpp
-# Searching
-# EXPERIMENT 20: SEARCHING ALGORITHMS IN C++
 
 ## AIM
 To understand and implement different searching techniques in C++ including **Linear Search**, **Sequential Search**, and **Binary Search** for locating elements in arrays.
